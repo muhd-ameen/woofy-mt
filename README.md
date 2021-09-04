@@ -1,4 +1,4 @@
-# lylac
+# Woofy
 
 A new Flutter project.
 
